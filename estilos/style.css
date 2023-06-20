@@ -63,12 +63,12 @@ html, body{
 
 @media screen and (max-width: 375px) {
     .container{
-        width: 340px;
+        width: 325px;
         height: 520px;
     }
 
     .imagem-qr-code{
-        width: 310px;
+        width: 300px;
     }
 
     .qr-code > h1{
