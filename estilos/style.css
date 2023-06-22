@@ -79,3 +79,22 @@ html, body{
         padding-bottom: 30px;
     }
 }
+
+@media screen and (max-width: 425px ) {
+    .container{
+        width: 340px;
+        height: 520px;
+    }
+
+    .imagem-qr-code{
+        width: 300px;
+    }
+
+    .qr-code > h1{
+        font-size: 1.5rem;
+    }
+
+    .paragraph{
+        padding-bottom: 30px;
+    }
+}
